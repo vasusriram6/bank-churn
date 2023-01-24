@@ -11,4 +11,5 @@ Some extra packages were required to run the notebook and app.py files besides t
 -pickle
 -flask
 
-After the libraries are installed, please run the app.py in an editor. The application will be hosted in a local IP address which will be visible in the editor terminal.
+The app.py file doesn't require all the above libraries. Only sklearn, pickle and flask are required.
+After running, the application will be hosted in a local IP address which will be visible in the editor terminal.
